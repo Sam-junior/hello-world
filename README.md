@@ -1,2 +1,2 @@
-# hello-world
-Print “Hello, world!”
+# hello-sam
+Hi, my name is Sam!
