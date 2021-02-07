@@ -1,2 +1,4 @@
-# hello-world
-Print “Hello, world!”
+# hello-user
+What is your name?
+My name is <name>.
+Hello, <name>!
